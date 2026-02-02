@@ -13,7 +13,7 @@ $config->set('viewsFolder', 'views/');
 
 // Parámetros de conexión a la BD
 //mysql://root:IstlmpkzCNnbTBzpSEPSGxjyoHMYDYhU@maglev.proxy.rlwy.net:56628/railway
-$config->set('dbhost', 'maglev.proxy.rlwy.net:56628)';
+$config->set('dbhost', 'maglev.proxy.rlwy.net:56628');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
 $config->set('dbpass', 'IstlmpkzCNnbTBzpSEPSGxjyoHMYDYhU');
